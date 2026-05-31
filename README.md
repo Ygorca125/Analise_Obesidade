@@ -33,22 +33,17 @@ O projeto foi desenvolvido com o objetivo de auxiliar uma equipe médica na prev
 - `xgboost_model.pkl` → Faz a previsão de nível de obesidade
 - `requirements.txt` → Lista de todas as bibliotecas (pacotes) que o seu projeto precisa para rodar corretamente.
 - `app.py` → Rodar a interface do Streamlit
-- `Dockerfile` → 
-- `PowerBI_Traducao_.ipynb` →
-- `Obesity_Traduzido_PowerBI.csv` →
-- `Análise BI.pbix` →
-- `Análise BI.pdf` →
-- `Apresentação Projeto Módulo 4.pptx` →
+- `Dockerfile` → Arquivo necessário para utilizar docker
+- `PowerBI_Traducao_.ipynb` → Tradução dos dados para utilizar no PowerBi
+- `Obesity_Traduzido_PowerBI.csv` → CSV do arquivo traduzido
+- `Análise BI.pbix` → Arquivo em PowerBI
+- `Análise BI.pdf` → PowerBI no formato PDF
+- `Apresentação Projeto Módulo 4.pptx` → Apresentação final do projeto
 
 ---
 
 ## 🚀 Como Executar
 
-1. Abra o notebook no [Google Colab](https://colab.research.google.com/)
-2. Faça upload do arquivo `Obesity.csv`
-3. Execute as células na ordem
+1. Abra o Link do Streamlit e aguarde alguns segundos https://analise-obesidade.onrender.com/
+2. Adicione no visual as informações e depois rode a previsão! 
 
-Ou clone o repositório e rode localmente:
-
-```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
