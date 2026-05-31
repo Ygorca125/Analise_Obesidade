@@ -11,6 +11,10 @@ O projeto foi desenvolvido com o objetivo de auxiliar uma equipe médica na prev
 
 **Objetivo:** Modelo com assertividade preditiva acima de 75% utilizando streamlit.
 
+# Abaixo tem o RoadMap do Projeto:
+<img width="1611" height="811" alt="image" src="https://github.com/user-attachments/assets/9a38b64c-82be-47f0-881b-ab369f899456" />
+
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
